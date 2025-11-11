@@ -1,1 +1,1 @@
-# But when I win a 20v1, I lose 40,000 aura?
+# But when I win a 20v1, I lose 10,000 aura?
